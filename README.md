@@ -31,19 +31,6 @@ Le but du jeu est de retrouver toutes les paires de cartes identiques en un mini
 2. Ouvrez le dossier du projet.
 3. Ouvrez le fichier `index.html` dans votre navigateur préféré.
 
-### Option 2 : serveur local
-
-Si vous préférez lancer le projet via un serveur local :
-
-```bash
-python -m http.server 8000
-```
-
-Puis ouvrez :
-
-```text
-http://localhost:8000
-```
 
 ## 🧩 Structure du projet
 
